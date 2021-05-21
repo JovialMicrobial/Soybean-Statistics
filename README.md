@@ -9,3 +9,5 @@ Finding solid, up-to-date statistics for soybeans is surprisingly difficult. Sta
 * Supposedly [SOPA](http://www.sopa.org/statistics/world-soybean-production/) takes the USDA-ERS information and makes them more readable. However, I have not double-checked this.
 
 * The [CME Group](https://www.cmegroup.com/trading/agricultural/soybean-reports.html) has quite a few graphs going into detail about the production of soybean. However, they're not indicating the datasets, or at least not at first glance. The graphs come from a group called the Hightower Report.
+
+* The [2020 Agricultural Export Yearbook by the USDA-FAS](https://www.fas.usda.gov/data/2020-agricultural-export-yearbook) goes into some detail, too. Reading this now.
