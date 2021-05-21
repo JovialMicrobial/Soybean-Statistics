@@ -14,4 +14,4 @@ Finding solid, up-to-date statistics for soybeans is surprisingly difficult. Sta
 
 Currently trying to find information about the percentage of soybeans processed into either meal or oil and whether they end up going into human consumption, animal feed, or industry.
 
-* [Tables](https://www.ers.usda.gov/publications/pub-details/?pubid=101170) that go into detail about the proportions of US soybeans converted into meal, protein, or some other use (about damn time)
+* The [Oilseeds: World Markets and Trade](https://www.fas.usda.gov/data/oilseeds-world-markets-and-trade) report by the USDA-FAS finally go into explicit detail about the proportions of soybeans (meal, crush, etc).
