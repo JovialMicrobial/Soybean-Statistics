@@ -13,3 +13,5 @@ Finding solid, up-to-date statistics for soybeans is surprisingly difficult. Sta
 * The [2020 Agricultural Export Yearbook by the USDA-FAS](https://www.fas.usda.gov/data/2020-agricultural-export-yearbook) goes into detail about the export markets for U.S. soybeans.
 
 Currently trying to find information about the percentage of soybeans processed into either meal or oil and whether they end up going into human consumption, animal feed, or industry.
+
+* [Tables](https://www.ers.usda.gov/publications/pub-details/?pubid=101170) that go into detail about the proportions of US soybeans converted into meal, protein, or some other use (about damn time)
