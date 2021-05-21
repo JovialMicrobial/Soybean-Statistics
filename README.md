@@ -6,6 +6,6 @@ Finding solid, up-to-date statistics for soybeans is surprisingly difficult. Sta
 
 * [FAOSTAT](http://www.fao.org/faostat/en/#search/soybean) is another good resource (definitely easier to navigate than the USDA) for soybean data. Just like the USDA-ERS, however, they don't have great figures. But they do have more accessible datasets, so it shouldn't be too much to make a graph (WILL TRY TO MAKE ONE LATER)
 
-* Supposedly [SOPA](http://www.sopa.org/statistics/world-soybean-production/) takes the USDA-ERS information and makes them more readbale. However, I have not double-checked this.
+* Supposedly [SOPA](http://www.sopa.org/statistics/world-soybean-production/) takes the USDA-ERS information and makes them more readable. However, I have not double-checked this.
 
 * The [CME Group](https://www.cmegroup.com/trading/agricultural/soybean-reports.html) has quite a few graphs going into detail about the production of soybean. However, they're not indicating the datasets, or at least not at first glance. The graphs come from a group called the Hightower Report.
