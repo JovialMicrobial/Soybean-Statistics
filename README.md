@@ -10,4 +10,6 @@ Finding solid, up-to-date statistics for soybeans is surprisingly difficult. Sta
 
 * The [CME Group](https://www.cmegroup.com/trading/agricultural/soybean-reports.html) has quite a few graphs going into detail about the production of soybean. However, they're not indicating the datasets, or at least not at first glance. The graphs come from a group called the Hightower Report.
 
-* The [2020 Agricultural Export Yearbook by the USDA-FAS](https://www.fas.usda.gov/data/2020-agricultural-export-yearbook) goes into some detail, too. Reading this now.
+* The [2020 Agricultural Export Yearbook by the USDA-FAS](https://www.fas.usda.gov/data/2020-agricultural-export-yearbook) goes into detail about the export markets for U.S. soybeans.
+
+Currently trying to find information about the percentage of soybeans processed into either meal or oil and whether they end up going into human consumption, animal feed, or industry.
